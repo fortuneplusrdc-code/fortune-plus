@@ -1,2 +1,0 @@
-# fortune-plus
-index.html
